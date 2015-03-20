@@ -1,0 +1,7 @@
+D:\Den\Programming\C#\_ItPlanetSecodStage\CreateBigArray\CreateBigArray\bin\x64\Release\CreateBigArray.exe.config
+D:\Den\Programming\C#\CreateBigArray\CreateBigArray\bin\x64\Release\CreateBigArray.exe.config
+D:\Den\Programming\C#\CreateBigArray\CreateBigArray\bin\x64\Release\CreateBigArray.exe
+D:\Den\Programming\C#\CreateBigArray\CreateBigArray\bin\x64\Release\CreateBigArray.pdb
+D:\Den\Programming\C#\CreateBigArray\CreateBigArray\obj\x64\Release\CreateBigArray.csprojResolveAssemblyReference.cache
+D:\Den\Programming\C#\CreateBigArray\CreateBigArray\obj\x64\Release\CreateBigArray.exe
+D:\Den\Programming\C#\CreateBigArray\CreateBigArray\obj\x64\Release\CreateBigArray.pdb
