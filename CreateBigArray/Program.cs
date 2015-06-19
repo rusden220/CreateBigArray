@@ -3,10 +3,23 @@ using System.Threading.Tasks;
 
 namespace CreateBigArray
 {
+	class test
+	{
+		private int _x = 0;
+
+		public int X
+		{
+			get { return _x; }
+			set { _x = value; }
+		}
+		
+	}
 	class Program
 	{
 		static void Main(string[] args)
 		{
+			new test().X = 0;
+
 			Console.WriteLine("Create a big array");
 #if x64
 			int len = int.MaxValue / 2;

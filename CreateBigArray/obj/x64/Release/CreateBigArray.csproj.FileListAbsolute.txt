@@ -5,3 +5,5 @@ D:\Den\Programming\C#\CreateBigArray\CreateBigArray\bin\x64\Release\CreateBigArr
 D:\Den\Programming\C#\CreateBigArray\CreateBigArray\obj\x64\Release\CreateBigArray.csprojResolveAssemblyReference.cache
 D:\Den\Programming\C#\CreateBigArray\CreateBigArray\obj\x64\Release\CreateBigArray.exe
 D:\Den\Programming\C#\CreateBigArray\CreateBigArray\obj\x64\Release\CreateBigArray.pdb
+D:\Den\Programming\git\CreateBigArray\CreateBigArray\bin\x64\Release\CreateBigArray.exe.config
+D:\Den\Programming\git\CreateBigArray\CreateBigArray\obj\x64\Release\CreateBigArray.pdb
